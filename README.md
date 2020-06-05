@@ -7,5 +7,7 @@
  
   ```shell
    picgo u | sed -n '/^http/p' | xsel -b -i
-   > 需要使用 `npm install picgo -g` 安装 picgo
   ```
+  
+  > 需要使用 `npm install picgo -g` 安装 picgo
+
